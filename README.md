@@ -217,4 +217,4 @@ Baidu Antivirus is the full free version available with all features and updates
 Don’t wait any longer! Download Baidu Antivirus today and safeguard your computer with the best free antivirus solution available.
 
 ---
-**Last updated:** 2026-09-19 19:10:16 UTC
+**Last updated:** 2026-09-19 22:08:33 UTC
